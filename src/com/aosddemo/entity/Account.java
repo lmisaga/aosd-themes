@@ -1,5 +1,6 @@
-package com.company.entity;
+package com.aosddemo.entity;
 
+//not used yet, but might use it in full project as an example
 public class Account {
 
 	private AccountType accountType;
